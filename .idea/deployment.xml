@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="3060-12G * 6 卡">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="A6000-48G * 1 卡">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="M40-24G * 3 卡">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inspur@5.tcp.vip.cpolar.cn:13117 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/inspur/AI/lab302/ljj/DehazeFormer" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-1.gpushare.com:36549 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-1.gpushare.com:64261 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-2.gpushare.com:31391 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-2.gpushare.com:33121 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-2.gpushare.com:42821 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-2.gpushare.com:50215 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/DehazeFormer-test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

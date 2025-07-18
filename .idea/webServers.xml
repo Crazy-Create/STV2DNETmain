@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8aafbc2-325b-4eef-9c3e-ad1a030f0bd9" name="M40-24G * 3 卡">
+        <fileTransfer accessType="SFTP" host="i-1.gpushare.com" port="36549" sshConfigId="5cb8b893-d9b2-4c4a-88f4-917cbbd0093c" sshConfig="root@i-1.gpushare.com:36549 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6f9212a7-4c5c-4856-ad7d-72b09c297baf" name="3060-12G * 6 卡">
+        <fileTransfer accessType="SFTP" host="i-2.gpushare.com" port="50215" sshConfigId="1f6f3435-a621-4720-80d1-c5254abeea0c" sshConfig="root@i-2.gpushare.com:50215 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c7aaca5a-ecdd-4df4-bdcd-39385de7ea80" name="A6000-48G * 1 卡">
+        <fileTransfer accessType="SFTP" host="i-2.gpushare.com" port="51514" sshConfigId="adcf2889-13a5-4742-a2c8-678f1e647703" sshConfig="root@i-2.gpushare.com:51514 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
